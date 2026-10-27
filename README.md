@@ -13,11 +13,13 @@
   </a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,css,django,docker,figma,html,js,kotlin,kubernetes&theme=dark&perline=11" alt="Languages and Tools - Row 1" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,css,django,docker,figma,html,js,kotlin,kubernetes,mongodb,mysql,nodejs,postgres,py,react,spring,sqlite,ts&theme=dark&perline=10&gap=4" alt="Languages and Tools" />
 </p>
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,nodejs,postgres,py,react,spring,sqlite,ts&theme=dark&perline=9" alt="Languages and Tools - Row 2" />
